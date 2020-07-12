@@ -7,4 +7,4 @@ In this assignment I also interchanged tags with better suited tags such as incl
 
 Some challenges I ran into during this assignment was making sure that I had all of the correct material in the same folder on my computer. Pictures did not populate due to this error, fortuntaley is was a simple fix. 
 
-With every change and challenge I would refernce to the most resent version of the site, making sure change were accurate and errors were caught. Both Visual Studio Code and the Inspector tool were most helpful in this process
+With every change and challenge I would refernce to the most resent version of the site, making sure change were accurate and errors were caught. Both Visual Studio Code and the Inspector tool were most helpful in this process.
